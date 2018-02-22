@@ -3,10 +3,10 @@ const environment = {
     apiEndpoint: 'http://127.0.0.1:8000',
   },
   development: {
-    apiEndpoint: 'https://carbondoomsday-test.herokuapp.com',
+    apiEndpoint: 'https://api-test.carbondoomsday.com',
   },
   staging: {
-    apiEndpoint: 'https://carbondoomsday-test.herokuapp.com',
+    apiEndpoint: 'https://api-test.carbondoomsday.com',
   },
   production: {
     apiEndpoint: 'https://carbondoomsday.herokuapp.com',
